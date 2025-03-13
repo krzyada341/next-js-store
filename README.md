@@ -24,8 +24,8 @@ This project leverages the following technologies:
 ### 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/user/store-starter.git
-cd store-starter
+git clone https://github.com/krzyada341/next-js-store.git
+cd next-js-store
 ```
 
 ### 2️⃣ Install dependencies
